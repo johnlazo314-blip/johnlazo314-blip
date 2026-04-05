@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there.👋 My name is Jonathan Lazo, I am a rising senior studying MIS at UT Austin. I am currently working on Full-Stack Dev projects and developing my Python skill set.
 
 <!--
 **johnlazo314-blip/johnlazo314-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
