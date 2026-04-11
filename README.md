@@ -18,7 +18,7 @@ I document the work I'm doing to keep pushing that further.
   analyzing 50,000+ records with 63% R² on a held-out test set
 - **Hotel Reservation System** — Full RDBMS with an ETL pipeline 
   in Snowflake, stored procedures, and 50+ SQL scripts
-- **Automated Inventory System** — Object-oriented Python system 
+- **Automated Inventory System (https://github.com/johnlazo314-blip/Automated-Inventory-System)** — Object-oriented Python system 
   with file I/O, custom classes, and unit testing
 
 ## Technologies I work with
