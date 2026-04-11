@@ -14,7 +14,7 @@ I document the work I'm doing to keep pushing that further.
   database coursework
 
 ## What I've built
-- **Air Pollution Analysis** — Random Forest model in scikit-learn 
+- **[Air Pollution Analysis](https://github.com/johnlazo314-blip/Air-Pollution-Analysis.git)** — Random Forest model in scikit-learn 
   analyzing 50,000+ records with 63% R² on a held-out test set
 - **Hotel Reservation System** — Full RDBMS with an ETL pipeline 
   in Snowflake, stored procedures, and 50+ SQL scripts
