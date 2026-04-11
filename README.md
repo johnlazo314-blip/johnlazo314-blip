@@ -1,4 +1,4 @@
-# Hi, I'm Jonathan 👋
+# Hi, I'm Jonathan 🤘
 
 I'm a junior at UT Austin studying Management Information Systems 
 with a minor in Statistics and Data Science and certificate in Programming and Computation. I've always been drawn 
