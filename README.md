@@ -16,8 +16,7 @@ I document the work I'm doing to keep pushing that further.
 ## What I've built
 - **[Air Pollution Analysis](https://github.com/johnlazo314-blip/Air-Pollution-Analysis.git)** — Random Forest model in scikit-learn 
   analyzing 50,000+ records with 63% R² on a held-out test set
-- **[Full Stack Bank Application](https://github.com/johnlazo314-blip/Bank-Project.git)** — Full RDBMS with an ETL pipeline 
-  in Snowflake, stored procedures, and 50+ SQL scripts
+- **[Full Stack Bank Application](https://github.com/johnlazo314-blip/Bank-Project.git)** — React and Node.js/Express web app with PostgreSQL, Asgardeo OAuth/OIDC authentication, role-based access control, and an integrated AI chatbot for personalized customer support
 - **[Automated Inventory System](https://github.com/johnlazo314-blip/Automated-Inventory-System.git)** — Object-oriented Python system 
   with file I/O, custom classes, and unit testing
 
