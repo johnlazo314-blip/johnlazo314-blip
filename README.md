@@ -16,9 +16,9 @@ I document the work I'm doing to keep pushing that further.
 ## What I've built
 - **[Air Pollution Analysis](https://github.com/johnlazo314-blip/Air-Pollution-Analysis.git)** — Random Forest model in scikit-learn 
   analyzing 50,000+ records with 63% R² on a held-out test set
-- **Hotel Reservation System** — Full RDBMS with an ETL pipeline 
+- **Full Stack Bank Application** — Full RDBMS with an ETL pipeline 
   in Snowflake, stored procedures, and 50+ SQL scripts
-- **[Automated Inventory System](https://github.com/johnlazo314-blip/Automated-Inventory-System)** — Object-oriented Python system 
+- **[Automated Inventory System](https://github.com/johnlazo314-blip/Bank-Project.git)** — Object-oriented Python system 
   with file I/O, custom classes, and unit testing
 
 ## Technologies I work with
